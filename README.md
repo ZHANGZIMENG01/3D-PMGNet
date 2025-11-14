@@ -1,1 +1,1 @@
-# 3D-PGNet
+# 3D-PMGNet
